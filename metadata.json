@@ -1,0 +1,6 @@
+{
+  "name": "Справочник Padeg.dll v4.1 & LLM-Спецификация",
+  "description": "Полная структурированная документация и LLM-спецификация актуальной версии библиотеки склонения Padeg.dll (PadegUC, PadegUCA, PadegFB v4.1) с блоками данных для парсинга и интеграции.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
